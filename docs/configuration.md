@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Configuration
+#title: Configuration
+title: Getting Started
 nav_order: 2
 ---
 

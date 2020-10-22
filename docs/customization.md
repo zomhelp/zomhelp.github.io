@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Customization
+#title: Customization
+title: General
 nav_order: 6
 ---
 
