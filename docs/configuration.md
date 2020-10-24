@@ -5,11 +5,11 @@ title: Getting Started
 nav_order: 2
 ---
 
-# Configuration
+# Getting Started
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Zom is a place where friends can be friends, and you can always speak your mind freely.Once connected on Zom, you can send free text and voice messages, share photos, stickers and more!
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -21,103 +21,146 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
-## Site logo
+## Installing Zom
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
 
-## Search
+Installing Zom
+Zippy, Clean, Secure. Keeping your loved ones not only inside the family photos in your wallet but also sharing messages with them on your pocket device.
+Download Zom on your following devices  
+·        Android  
+·        IOS  
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+### Android  
+Zom users can send private messages safely and create a group with other Zom users and interact with them.  
+#### Steps to get started  
+1.Confirm that your phone is running  Android 4.4 or later  
+2.Install and open Zom from your Google Play Store  
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+![alt text](https://raw.githubusercontent.com/zomhelp/zomhelp.github.io/master/assets/images/zom_install.jpg)  
 
-## Aux links
+### iOS  
+Zom iOS users can send private messages to other Zom users anywhere in the world over the internet.  
+
+### iPhone/ iPad  
+
+#### Steps to get started:  
+
+1.Confirm your iOS device is running on iOS 11 or later  
+2.Install and open Zom  
+
+ 
+  
+
+
+## Installing Zom - Tibetan
 
 ```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+# In Development....
 ```
 
-## Heading anchor links
+## Adding a friend
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
+
+**How do I add Friends?**  
+
+After you have created a Zom account you can now start adding your friends by clicking on the circular ‘add friend’ icon which is on the bottom right corner of the screen  
+
+![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab.jpg?raw=true)  
+   
+  
+You will now be able to add your friends directly through their Zom ID or you can send them an invite link through other messaging apps. Also you can invite friends using your regular SMS( Charges may apply if your cellular service provider charges you for sending texts) There is also a unique feature to add your friends via scanning the QR code.  
+
+![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.gif?raw=true)  
+
+**How do I chat with friends?**  
+
+Go to the chat page which is first the page that shows up when you open Zom. There on the bottom right corner of the page is a circular ‘+’ icon,![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab_small.jpg?raw=true)    
+
+
+Click on this icon and choose a friend you want to chat with from you friend list  
+## Adding a friend - Tibetan
+ 
+ ```yaml
+# In Development....
 ```
 
-## Footer content
 
-```yaml
-# Footer content 
-# appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+## How do I ensure Zom is up to date?
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
 
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+Zom gets better with every update by fixing minor bugs. Here is how to make sure that your Zom app is zippy and up to date:  
 
-## Color scheme
+### Android
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
+Check Google Play Store for the latest version and the list of updates.  
+
+How do i update Zom Android  
+
+- **Automatically**  
+
+To set up automatic updates for Zom and your other apps:  
+
+1. Open the Google Play Store app  
+2. Select settings  
+3. Tap Auto-update apps  
+4. Select an option  
+ -Auto update apps at any time to update apps using either Wi-Fi or mobile data  
+ -Auto-update apps over Wi-Fi only to update apps only when connected to Wi-Fi  
+ 
+
+- **Manually** 
+
+Find the latest version by visiting    
+  [https://play.google.com/store/apps/details?id=im.zom.messenger](https://play.google.com/store/apps/details?id=im.zom.messenger "Title") on your phone or going directly to the Zom store page for your Android phone. If a new version is available to you on your phone, you will see the option to update. Select update and open Zom
+
+### iOS  
+
+*What is the latest version of Zom iOS?*  
+Check the [App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669 "App Store") for the latest version number and a list of updates.    
+
+*How do I update Signal iOS?* 
+- **Automatically**  
+   To set up automatic updates for Zom and your other apps:  
+1. From your home screen tap Settings  
+2. Select [your name]  
+3. Select iTunes & App Store  
+4. Enable App Updates  
+- **Manually**  
+
+Find the latest version by visiting  
+ [https://apps.apple.com/us/app/zom-mobile-messenger/id1059530167 ](https://apps.apple.com/us/app/zom-mobile-messenger/id1059530167  "Title") on your phone or going directly to the Zom page. If a new version is available to you on your phone, you will see the option to update. Select update and open Zom.
+
+
+
+## How do I register an account on Zom?
+
+To register an account you must have Zom installed in your phone. After installing Zom you will be taken to a welcome bubble  
+
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome.jpg?raw=true" width="400">
+
+
+Here you are given an option to select a language. After which you are greeted with an option to create an account  
+
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register.jpg?raw=true" width="400">
+
+
+After which you will have to create a Zom ID. Here you can enter a desired Zom ID of your liking, below which you are required to enter a password. You will have to enter your password twice in order to confirm your password. Make sure you make a strong password with a combination of numerics,uppercase and lowercase letters.  
+
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec.jpg?raw=true" width="400">
+ 
+
+Now, you’ve entered Zom, an option will appear to add a friend with an existing Zom ID or you can send an invite link to your friends via other messaging apps to join Zom  
+
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.jpg?raw=true" width="400">
+  
+
+
+
+
+
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
@@ -134,62 +177,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+<!--See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.--->
 
-## Google Analytics
 
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
 
