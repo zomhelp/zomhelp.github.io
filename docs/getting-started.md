@@ -1,4 +1,4 @@
----
+p---
 layout: default
 #title: Configuration
 title: Getting Started
@@ -37,8 +37,10 @@ Zom users can send private messages safely and create a group with other Zom use
 #### Steps to get started  
 1.Confirm that your phone is running  Android 4.4 or later  
 2.Install and open Zom from your Google Play Store  
-
-![alt text](https://raw.githubusercontent.com/zomhelp/zomhelp.github.io/master/assets/images/zom_install.jpg)  
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zomhelp/zomhelp.github.io/master/assets/images/zom_install.jpg" />
+</p>
 
 ### iOS  
 Zom iOS users can send private messages to other Zom users anywhere in the world over the internet.  
@@ -72,7 +74,9 @@ After you have created a Zom account you can now start adding your friends by cl
   
 You will now be able to add your friends directly through their Zom ID or you can send them an invite link through other messaging apps. Also you can invite friends using your regular SMS( Charges may apply if your cellular service provider charges you for sending texts) There is also a unique feature to add your friends via scanning the QR code.  
 
-![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.gif?raw=true)  
+<p align="center">
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.gif?raw=true" />
+</p>
 
 **How do I chat with friends?**  
 
@@ -139,7 +143,10 @@ Find the latest version by visiting
 
 To register an account you must have Zom installed in your phone. After installing Zom you will be taken to a welcome bubble  
 
+<p align="center">
+  
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome.jpg?raw=true" width="400">
+</p>
 
 
 Here you are given an option to select a language. After which you are greeted with an option to create an account  
@@ -148,14 +155,15 @@ Here you are given an option to select a language. After which you are greeted w
 
 
 After which you will have to create a Zom ID. Here you can enter a desired Zom ID of your liking, below which you are required to enter a password. You will have to enter your password twice in order to confirm your password. Make sure you make a strong password with a combination of numerics,uppercase and lowercase letters.  
-
+<p align="center">
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec.jpg?raw=true" width="400">
+</p>
  
 
 Now, you’ve entered Zom, an option will appear to add a friend with an existing Zom ID or you can send an invite link to your friends via other messaging apps to join Zom  
-
+<p align="center">
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.jpg?raw=true" width="400">
-  
+ </p> 
 
 
 
