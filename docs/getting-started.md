@@ -150,9 +150,9 @@ To register an account you must have Zom installed in your phone. After installi
 
 
 Here you are given an option to select a language. After which you are greeted with an option to create an account  
-
+<p align = "center">
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register.jpg?raw=true" width="400">
-
+</p>
 
 After which you will have to create a Zom ID. Here you can enter a desired Zom ID of your liking, below which you are required to enter a password. You will have to enter your password twice in order to confirm your password. Make sure you make a strong password with a combination of numerics,uppercase and lowercase letters.  
 <p align="center">
