@@ -1,4 +1,4 @@
-p---
+---
 layout: default
 #title: Configuration
 title: Getting Started
