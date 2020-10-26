@@ -145,25 +145,80 @@ To register an account you must have Zom installed in your phone. After installi
 
 <p align="center">
   
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome.jpg?raw=true" width="400">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome.jpg?raw=true" width="350">
 </p>
 
 
 Here you are given an option to select a language. After which you are greeted with an option to create an account  
 <p align = "center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register.jpg?raw=true" width="400">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register.jpg?raw=true" width="350">
 </p>
 
 After which you will have to create a Zom ID. Here you can enter a desired Zom ID of your liking, below which you are required to enter a password. You will have to enter your password twice in order to confirm your password. Make sure you make a strong password with a combination of numerics,uppercase and lowercase letters.  
 <p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec.jpg?raw=true" width="400">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec.jpg?raw=true" width="350">
 </p>
  
 
 Now, you’ve entered Zom, an option will appear to add a friend with an existing Zom ID or you can send an invite link to your friends via other messaging apps to join Zom  
 <p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.jpg?raw=true" width="400">
- </p> 
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.jpg?raw=true" width="350">
+ </p>   
+
+## How do I edit my Profile?  
+
+Zom keeps your information in the profile safe and encrypted. The Zom service does not have any information about your selected profile picture or your username. Here are the following ways you can edit your Profile:  
+
+
+1.Tap on the last tab in the app which is the Profile section.  
+
+<p align = "center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile.jpg?raw=true">
+</p>
+
+2.Tap on the avatar to upload a display picture from your device.  
+3.Tap on the pencil icon to edit your username   
+4.You can change your password by tapping on the pencil icon next to your password.  
+5.You can also see your current password by toggling the eye icon.  
+
+
+What do other people see?  
+
+
+if someone has saved you as a contact to their phone, they will see the profile name and photo you have set.  
+
+## How do I send a message?  
+
+Send a Message  
+
+After you have created a Zom ID you are set to start communicating privately with other Zom users.  
+
+Here’s how you can send a message:   
+
+### Android  
+1. In Zom select a friend you want to message by tapping on the message button   
+<p align="center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_icon.jpg?raw=true" style="height:60px;width:65spx"/>
+</p>  
+
+2. Select a friend you want to message  
+3. Tap the text input field:  
+* You will see “Send a message” when you are communicating with another Zom user   
+<p align="center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/input_view.jpg?raw=true"/>
+</p>   
+
+4. Type your message or attach a file  
+5. To send a message, tap and hold or long-press the send icon to switch to the gray-icon.   
+<p >
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
+</p>  
+<p align="center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
+</p>
+
+
+
 
 
 
