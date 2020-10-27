@@ -196,26 +196,47 @@ After you have created a Zom ID you are set to start communicating privately wit
 Here’s how you can send a message:   
 
 ### Android  
-1. In Zom select a friend you want to message by tapping on the message button   
-<p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_icon.jpg?raw=true" style="height:60px;width:65spx"/>
-</p>  
+1. In Zom select a friend you want to message by tapping on the message button  
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_icon.jpg?raw=true" style="height:60px;width:65px"/>
+    </p>   
 
 2. Select a friend you want to message  
 3. Tap the text input field:  
 * You will see “Send a message” when you are communicating with another Zom user   
-<p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/input_view.jpg?raw=true"/>
-</p>   
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/input_view.jpg?raw=true"/>
+    </p>   
 
 4. Type your message or attach a file  
 5. To send a message, tap and hold or long-press the send icon to switch to the gray-icon.   
-<p >
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
-</p>  
-<p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
-</p>
+    <p >
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
+    </p>  
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
+    </p>  
+
+## What is a New Group?  
+This is a Zom group and is a  secure place where other third parties cannot get access to your messages . The Zom service has no record of your group memberships and group titles  
+ 
+### Android  
+To start a group chat:  
+1. Go to the Zom “menu” and tap on the Zom Discover icon   
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/discover.gif?raw=true"/>
+    </p> 
+ 
+2. Tap on ‘Create a Group’ and select a desired name for the group. After entering the group name tap on  “Add Friends” and select the contacts you want into your group.   
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/create_group.gif?raw=true"/>
+    </p>   
+
+3. After adding your friends you are ready to chat with the group members from the Chat window on the menu.   
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/group.jpg?raw=true" width="250"/>
+    </p>
+
 
 
 
