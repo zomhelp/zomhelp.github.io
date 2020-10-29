@@ -1,7 +1,7 @@
 ---
 layout: default
 #title: Customization
-title: General
+title: Troubleshooting
 nav_order: 6
 ---
 

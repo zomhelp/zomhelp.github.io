@@ -213,43 +213,11 @@ Here’s how you can send a message:
     <p >
     <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
     </p>  
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
-    </p>  
+      <p align="center">
+      <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
+      </p>  
 
-## What is a New Group?  
-This is a Zom group and is a  secure place where other third parties cannot get access to your messages . The Zom service has no record of your group memberships and group titles  
- 
-### Android  
-To start a group chat:  
-1. Go to the Zom “menu” and tap on the Zom Discover icon   
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/discover.gif?raw=true"/>
-    </p> 
- 
-2. Tap on ‘Create a Group’ and select a desired name for the group. After entering the group name tap on  “Add Friends” and select the contacts you want into your group.   
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/create_group.gif?raw=true"/>
-    </p>   
 
-3. After adding your friends you are ready to chat with the group members from the Chat window on the menu.   
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/group.jpg?raw=true" width="250"/>
-    </p>   
-
-## How do I send stickers?
-Zom has a built-in list of unique  sticker packs that are available to all users, and we'll add more stickers over time. You can also create your own custom sticker packs or install sticker packs that you receive from other people.   
-
-### Android:  
-
-1. Tap on the the emoji icon <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/emoji.png?raw=true">  which is next to the mic and send a sticker from the sticker pack.   
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/emoji_icon.gif?raw=true" width="250"
-    />
-    </p>
-
-2. Scroll through your installed sticker packs and select the pack.   
-3. Tap on the sticker to send it immediately.   
 
 
 
