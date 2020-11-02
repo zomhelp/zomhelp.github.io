@@ -3,6 +3,7 @@
 //
 
 .search {
+  margin-top: 150px;
   position: relative;
   z-index: 2;
   flex-grow: 1;
@@ -11,6 +12,7 @@
   transition: padding linear #{$transition-duration / 2};
 
   @include mq(md) {
+    margin-top: 150px;
     position: relative !important;
     width: auto !important;
     height: 100% !important;
