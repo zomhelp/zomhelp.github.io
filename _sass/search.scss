@@ -17,9 +17,33 @@
     padding: 0;
     transition: none;
   }
+
+}
+.search-new {
+  position: relative;
+  z-index: 2;
+  flex-grow: 1;
+  height: $sp-10;
+  padding: $sp-2;
+  transition: padding linear #{$transition-duration / 2};
+
+  @include mq(md) {
+    position: relative !important;
+    width: auto !important;
+    height: 100% !important;
+    padding: 0;
+    transition: none;
+  }
+  @media only screen and (max-width: 800px) {  
+
+    display: none;
+   
+ 
+ }
 }
 
 .search-input-wrap {
+  
   position: relative;
   z-index: 1;
   height: $sp-8;
@@ -29,6 +53,8 @@
   transition: height linear #{$transition-duration / 2};
 
   @include mq(md) {
+    margin-top: 200px; 
+  margin-left: 260px;
     position: absolute;
     width: 100%;
     max-width: $search-results-width;
