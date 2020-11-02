@@ -51,7 +51,7 @@
 
 .main-header {
   z-index: 0;
-  display: none;
+  margin-top: 80px;
   background-color: $sidebar-color;
 
   @include mq(md) {
