@@ -98,4 +98,19 @@ To create a story:
 8.  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/bell.jpg?raw=true" style="height:60px;width:60px"/>
     
 ---
+## How do I add change colours?   
+1. On the top right corner of the screen there are three dots that are lined horizontally <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/option_menu.jpg?raw=true"/>   
+2. Tap on the Setting and you will be taken to a new window   
+3. Under the “Custom colors” option you can choose header colors, Text Color and Background color   
+    <p align="center">
+    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/color_menu.jpg?raw=true" width="350"/>
+    </p>
+4. Tap on the Header Colors option and select a color from the color scheme     
+5. Tap on the Text Color option and select a color from the color scheme     
+6. Tap on the Background Color and select a color from the color scheme   
+    <p align="center">
+    <img src = "https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/color_selector.jpg?raw=true" width="350"/>
+    </p>
+7. The customized color will reflect immediately on your Zom app    
+
 
