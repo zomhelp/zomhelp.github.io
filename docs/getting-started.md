@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 #title: Configuration
 title: Getting Started
@@ -247,4 +247,4 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 <!--See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.--->
 
 
-
+ -->
