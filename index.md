@@ -58,10 +58,30 @@ Zom iOS users can send private messages to other Zom users anywhere in the world
 
 
 ## Installing Zom - Tibetan
+<font size=5>
+<strong>འཛོམས་ཨེབ་ ༔</strong> 
+<p>འཛོམས་ཨེབ་ནི་མཛའ་གྲོགས་རྣམས་ལ་བརྡ་ལན་སྤྲོད་བྱེད་ཀྱི་ཨེབ་ཞིག་རེད་ དེ་ཡང་སྤྱོད་བདེ་བ་དང་བཙན་པོ་ཡོད་</p>   
+<p>འཛོམས་ཨེབ་བེད་སྤྱོད་བྱེད་མཁན་ཚོའི་སྒེར་གྱི་བརྡ་ལན་ཉོན་ཁ་མེད་པའི་ཐོག་བཏང་ཐུབ་པ་དང་དེའི་ནང་ཚོགས་པ་བཟོས་ཏེ་གཅིག་ལན་གཅིག་འཇལ་གྱི་འབྲེལ་བ་ཡང་བྱེད་ཐུབ།</p>   
+ 
+<strong>འཛོམས་ཨེབ་སྒྲིག་འཇུག་བྱེད་སྟངས་ ༔</strong>   
+<li>འཛོམས་ཨེབ་འདི་ཨེན་གྲོར་ཡདྲ་ <font size=3>(Android)</font> དང་ཨཡི་ཨོ་ཨས་ <font size=3>(IOS)</font> གང་རུང་ནང་ཕབ་ལེན་བྱེད་ཐུབ་</li>   
+ 
+ <strong>ཨེན་གྲོར་ཡདྲ་ <font size=3>(Android)</font> བཀོལ་སྤྱོད་པ་ལ་བརྒྱུད་རིམ་གཤམ་གསལ་་༔</strong>   
+   <p> <li>ཁ་པར་ ཨེན་གྲོར་ཡདྲ་ <font size=3>(Android) ༤་༤</font>    ནས་་ཡན་ལ་དགོས་</li>   
+    <li><font size=3>(Google Play Store)</font> ནས་འཛོམས་ཨེབ་སྒྲིག་འཇུག་བྱེད་ཐུབ་</li></p>   
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/zomhelp/zomhelp.github.io/master/assets/images/zom_install.jpg" />
+</p>
+    
 
-```yaml
-# In Development....
-```
+ <strong>ཨཡི་ཨོ་ཨས་ <font size=3>(IOS)</font> བཀོལ་སྤྱོད་པ་ལ་བརྒྱུད་རིམ་གཤམ་གསལ༔</strong>
+<li> ཁ་པར་ ཨཡི་ཨོ་ཨས་ <font size=3>(IOS) ༡༡</font>  ནས་་ཡན་ལ་དགོས་</li>
+<li> <font size=3>(App Store)</font> ནས་འཛོམས་ཨེབ་སྒྲིག་འཇུག་བྱེད་ཐུབ་</li>   
+</font>   
+
+
+
+
 
 ## Adding a friend
 
@@ -87,9 +107,20 @@ Go to the chat page which is first the page that shows up when you open Zom. The
 Click on this icon and choose a friend you want to chat with from you friend list  
 ## Adding a friend - Tibetan
  
- ```yaml
-# In Development....
-```
+<font size=5><strong>ངས་གྲོགས་པོ་གང་དྲ་བཟོ་དགོས་སམ་</strong></font> 
+<font size=5>
+<p>ཁྱོད་ཀྱིས་བརྡ་འཕྲིན་ཁ་བྱང་བཟོ་ཚར་རྗེས་ ཁ་པའི་ངོ་འོག་ཟུར་དུ་ཡོད་པའི་འདྲ་སྒོར་ " གྲོགས་པོ་བཟོ་ "  ཞེས་པ་འདི་ཡི་ཐོག་གནོན་ནས་ཁྱེད་ཀྱིས་གྲོགས་པོ་གསར་པ་བཟོ་མགོར་བཙུགས་ཐུབ་</p>   
+<p>
+<p align="center">
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab.jpg?raw=true" />
+</p>
+ད་ནས་ཟུང་ཁྱོད་ཀྱིས་གྲོགས་པོ་བཟོ་དགོས་ན་གྲོགས་པའི་བརྡ་འཕྲིན་ཁ་བྱང་རྒུད་གྲོགས་པོ་བཟོ་ཐུབ་ཡང་ན་ཁྱོད་ཀྱིས་བརྡ་འཕྲིན་ཀོ་ཆས་རྒུད་རྒྱས་མཐུད་བཏང་ཆོག་ ད་དུང་ཁྱེད་ཀྱིས་གྲོགས་པོ་བསུ་ཐུབ་</p>   
+
+<p><strong>གྲོགས་པོ་ལྷན་དུ་གླེང་མོལ</strong></p>   
+<p>ཁྱེད་རང་གི་འཛོམས་ཨེབ་བེད་སྤྱོད་བྱེད་ཚད་ཐོག་མ་གླེང་མོལ་གྱི་ཤོག་ངོས་དེ་ལག་ཐོག་ཁ་དཔར་་སྟེང་ཤར་གྱི་རེད་    དེའི་ཟུར་འོག་གཡས་ཕྱོགས་སུ་སྒོར་རྟགས་ (+) ཞིག་ཡོད་ <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab_small.jpg?raw=true"/> </p>
+
+
+</font>
 
 
 
