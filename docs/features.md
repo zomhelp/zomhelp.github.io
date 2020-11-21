@@ -113,4 +113,39 @@ To create a story:
     </p>
 7. The customized color will reflect immediately on your Zom app    
 
+## How do delete messages?   
+
+<p align="center">
+    <img src = "https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/delete_msg.jpg?raw=true" width="350"/>
+</p>   
+
+Some messages are like the leftover Losar Khapse that needs to get dumped. Getting rid of those khapseys never got easier. To delete your unwanted messages from a chat or from a group:   
+
+
+
+1. Open the chat   
+
+2. On Mobile:
+* Tap and hold the message that you have recieved in the chat
+* On the top right corner three options appear
+* Tap on the bin icon to delete the message     <img src = "https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/bin_icon.png?raw=true"/>
+* The message will get deleted    
+
+## Note to Self   
+
+<p align="center">
+    <img src = "https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/note_to_self.jpg?raw=true" width="350"/>
+</p>     
+
+Storing new mantras or chants for good Karma just got easier by typing it on a chat which only you can see.   
+
+How to note to Self?   
+1. Create an Empty Room by selecting the + icon on the bottom right corner of the screen
+2. An Empty Room will be created where you can type, record and send pictures that are visible only to you
+3. All messages in Note to Self are end-to-end encrypted Zoml messages.
+4. You can also save drafts and other messages that are meant to be sent later or just a picture of your dog
+
+
+
+
 
