@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General
+title: སྤྱིར་བཏང།
 nav_order: 99
 ---
 

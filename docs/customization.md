@@ -1,7 +1,7 @@
 ---
 layout: default
 #title: Customization
-title: Troubleshooting
+title: དཀའ་རྙོག་འོང་བ། 
 nav_order: 6
 ---
 

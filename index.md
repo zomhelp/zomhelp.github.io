@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Getting Started
+title: འགོ་འཛུགས་པ། 
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Getting Started
+# འགོ་འཛུགས་པ། 
 {: .no_toc }
 
 
-Zom is a place where friends can be friends, and you can always speak your mind freely.Once connected on Zom, you can send free text and voice messages, share photos, stickers and more!
+འཛོམས་ཨེབ་ནི་མཛའ་གྲོགས་རྣམས་ལ་བརྡ་ལན་སྤྲོད་བྱེད་ཀྱི་ཨེབ་ཞིག་རེད། དེ་ཡང་སྤྱོད་བདེ་བ་དང་བཙན་པོ་ཡོད།   
+འཛོམས་ཨེབ་བེད་སྤྱོད་བྱེད་མཁན་ཚོའི་སྒེར་གྱི་བརྡ་ལན་ཉོན་ཁ་མེད་པའི་ཐོག་བཏང་ཐུབ་པ་དང་དེའི་ནང་ཚོགས་པ་བཟོས་ཏེ་གཅིག་ལན་གཅིག་འཇལ་གྱི་འབྲེལ་བ་ཡང་བྱེད་ཐུབ།
+
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -21,43 +23,7 @@ Zom is a place where friends can be friends, and you can always speak your mind 
 
 ---
 
-
-
-
-## Installing Zom
-
-
-Installing Zom
-Zippy, Clean, Secure. Keeping your loved ones not only inside the family photos in your wallet but also sharing messages with them on your pocket device.
-Download Zom on your following devices  
-·        Android  
-·        IOS  
-
-### Android  
-Zom users can send private messages safely and create a group with other Zom users and interact with them.  
-#### Steps to get started  
-1.Confirm that your phone is running  Android 4.4 or later  
-2.Install and open Zom from your Google Play Store  
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zomhelp/zomhelp.github.io/master/assets/images/zom_install.jpg" />
-</p>
-
-### iOS  
-Zom iOS users can send private messages to other Zom users anywhere in the world over the internet.  
-
-### iPhone/ iPad  
-
-#### Steps to get started:  
-
-1.Confirm your iOS device is running on iOS 11 or later  
-2.Install and open Zom  
-
- 
-  
-
-
-## Installing Zom - Tibetan
+## འཛོམས་ཨེབ་སྒྲིག་འཇུག་བྱེད་སྟངས།
 <font size=5>
 <strong>འཛོམས་ཨེབ་ ༔</strong> 
 <p>འཛོམས་ཨེབ་ནི་མཛའ་གྲོགས་རྣམས་ལ་བརྡ་ལན་སྤྲོད་བྱེད་ཀྱི་ཨེབ་ཞིག་རེད་ དེ་ཡང་སྤྱོད་བདེ་བ་དང་བཙན་པོ་ཡོད་</p>   
@@ -81,31 +47,58 @@ Zom iOS users can send private messages to other Zom users anywhere in the world
 
 
 
+## འཛོམས་ཨེབ་ནང་བརྡ་འཕྲིན་ཁ་བྱང་གསར་པ་ཞིག་ཇི་ལྟར་བཟོས་དགོས་སམ།
+
+འཛོམས་ཨེབ་ནང་བརྡ་འཕྲིན་ཁ་བྱང་གསར་པ་ཞིག་ཇི་ལྟར་བཟོས་དགོས་སམ།   
+
+༡༽བརྡ་འཕྲིན་ཁ་བྱང་མ་བཟོས་གོང་ཁ་པར་ནང་འཛོམས་ཨེབ་ཕབ་ལེན་བྱེད།   དེ་རྗེས་འཛོམས་ཨེབ་ཁ་ཕྱེ་མ་ཐག་ཁ་པར་ནང་དགའ་སུའི་དབུ་བ་ཞིག་འགྲེམས་གྱིན་རེད།
 
 
-## Adding a friend
-
-
-**How do I add Friends?**  
-
-After you have created a Zom account you can now start adding your friends by clicking on the circular ‘add friend’ icon which is on the bottom right corner of the screen  
-
-![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab.jpg?raw=true)  
-   
-  
-You will now be able to add your friends directly through their Zom ID or you can send them an invite link through other messaging apps. Also you can invite friends using your regular SMS( Charges may apply if your cellular service provider charges you for sending texts) There is also a unique feature to add your friends via scanning the QR code.  
 
 <p align="center">
-  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.gif?raw=true" />
+  
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome-tb.jpg?raw=true" width="350">
+</p>   
+༢༽དེའི་ནང་སྐད་ཡིག་འདམ་རྒྱུའི་གདམ་ག་ཞིག་ཡོད་པ་དང་སྐད་ཡིག་གདམས་རྗེས་འཛོམས་ཨེབ་གྱི་བརྡ་འཕྲིན་ཁ་བྱང་གསར་པ་གཟོ་རྒྱུའི་གདམས་ག་ཞིག་ཤར་གྱིན་རེད   
+།  
+<p align = "center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register-tb.jpg?raw=true" width="350">
 </p>
 
-**How do I chat with friends?**  
+༣༽དེ་རྗེས་སུ་འཛོམས་ཨེབ་གསར་པ་གཟོ་བ་ལ། ༔   
+        ༡་ དང་པོ་རང་གི་ངོ་བའི་མིང་རང་མོས་ཞིག་བྲིས།   
+        ༢་ དེའི་གཤམ་དུ་གསང་བའི་མིང་ངམ་ཨང་གྲངས་ཞིག་བྲིས།   
+        ༣་ གསང་མིང་དེ་ཐེངས་གཉིས་བྲིས་དགོས་པ་སྟེ་གསང་མིང་བློ་ལ་ངེས་བའི་ཆེད་དུ་       
+           ཡིན། གསང་མིང་དེ་མི་གཞན་གྱིས་མ་རྐུ་བའི་ཕྱིར་རང་གིས་ངེས་ཐུབ་པའི་ཡི་གེ་
+           དང་ ཨང་ཀི་ མཚོན་རྟགས་ སོགས་རང་ལ་རན་པ་ཞིག་ཡིན་པ་ངེས་དགོས།
+ 
+<p align="center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec-tb.jpg?raw=true" width="350">
+</p>
 
-Go to the chat page which is first the page that shows up when you open Zom. There on the bottom right corner of the page is a circular ‘+’ icon,![alt text](https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/fab_small.jpg?raw=true)    
+
+## How do I edit my Profile?  - Tibetan
+
+འཛོམས་ཨེབ་ནང་རང་གི་གསང་བའི་ཁ་ཆང་རྣམས་གཞན་ལས་ཉེན་ཁ་མེད་པའི་ཐོག་གསང་བརྡར་འབེས་པ་དང་བརྟན་པོ་ཡོད།     མ་ཟད་འཛོམས་ཨེབ་ནང་རང་རང་སྒེར་གྱི་མིང་དང་གཞོགས་སྣང་པར་རིས་ཡང་འཇེབ་ཐུབ།   
+རང་མོས་གཞོགས་སྣང་པར་རིས་དང་མིང་བཟོས་བ་ལ་གཤམ་གསལ། ༔   
+o འཛོམས་ཨེབ་ནང་ལྕེ་འཛར་མཐའ་མའི་འདྲ་སྒོར་དུ་གནོན།   
+
+<p align = "center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile.jpg?raw=true">
+</p>
+
+o རང་མོས་པར་ཡར་འཇུག་བྱེད་པ་ལ་མིའི་འདྲ་སྐུ་ལ་གནོན།   
+o རང་མོས་མིང་ཡར་འཇུག་བྱེད་པ་ལ་རང་མིང་གི་ཟུར་ན་ཞ་སྨྱུག་གི་འདྲ་སྒོར་ཆུང་ཆུང་དེ་བེད་སྤྱོད་བྱེད།   
+o རང་གི་གསང་ཚིག་བརྗེ་འདོད་ཡོད་ན་གསང་ཚིག་གི་ཟུར་ན་ཞ་སྨྱུག་གི་འདྲ་སྒོར་ཆུང་ཆུང་དེ་བེད་སྤྱོད་བྱེད།   
+o ད་ལྟའི་གསང་ཚིག་ལྟ་འདོད་ཡོད་ན་མིག་གི་འདྲ་སྒོར་ཆུང་ཆུང་དེ་བེད་སྤྱོད་བྱེད།   
+
+<p align = "center">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile-tb.jpg?raw=true">
+</p>
 
 
-Click on this icon and choose a friend you want to chat with from you friend list  
-## Adding a friend - Tibetan
+
+## ངས་གྲོགས་པོ་གང་དྲ་བཟོ་དགོས་སམ།
  
 <font size=5><strong>ངས་གྲོགས་པོ་གང་དྲ་བཟོ་དགོས་སམ་</strong></font> 
 <font size=5>
@@ -124,130 +117,80 @@ Click on this icon and choose a friend you want to chat with from you friend lis
 
 
 
-## How do I ensure Zom is up to date?
+## འཛོམས་ཨེབ་དུས་བསྟུན་བསྐྱར་གསོ་གང་འདྲ་བྱེད་དགོས་སམ།
 
 
-Zom gets better with every update by fixing minor bugs. Here is how to make sure that your Zom app is zippy and up to date:  
+འཛོམས་ཨེབ་དུས་བསྟུན་བསྐྱར་གསོ་གང་འདྲ་བྱེད་དགོས་སམ།    
+འཛོམས་ཨེབ་ནང་དུས་རྟགས་དུ་མཁས་སྤྱོད་གསར་པ་ཡར་འཇུག་བྱེད་ཀྱི་ཡོད། བྱས་ཙང་ངེས་པར་དུ་འཛོམས་ཨེབ་ཡང་ཡང་དུས་བསྟུན་བསྐྱར་གསོ་བྱེད།   
 
-### Android
 
-Check Google Play Store for the latest version and the list of updates.  
+ཨེན་གྲོར་ཡདྲ། (Android)   
+དུས་བསྟུན་བསྐྱར་གསོ་བྱེད་དགོས་པའི་ཨེབ་རྣམས་གུ་གལ་པེལཡ་སཏྲ་རོར་ (Google Playstore) ནང་ཡོད།   
+འཛོམས་ཨེབ་དུས་བསྟུནབསྐྱར་གསོ་བྱེད་པ་ལ་ཐབས་གཉིས་ཡོད།   
+༡༽ རང་འགུལ་བསྐྱར་གསོ།   
+༢༽ལག་བཟོས་བསྐྱར་གསོ།   
 
-How do i update Zom Android  
+ འཛོམས་ཨེབ་རང་འགུལ་བསྐྱར་གསོ་བྱེད་པ་ལ།   
+ ༡༽ ཁ་དཔར་ནས་གུ་གལ་པེལཡ་སཏྲ་རོར་ (Google Play Store) ཁ་ཕྱེ།   
+ ༢༽ སེ་ཊིང་(settings)ལ་གནོན།   
+ ༣༽ རང་འགུལ་བསྐྱར་གསོའི་འདམ་ག་ལ་གནོན།   
+དྲན་ཐོ། ༔   
+རྒྱུན་དུ་རང་གི་ཨེབ་རྣམས་བསྐྱར་གསོ་བྱེད་པ་ལ་ལྦཡི་ཕྷཡི་ (Wi-Fi) ཡང་ན་མོ་བཱཡིལ་སྒྲེ་ཊ་ (mobile data) བེད་སྤྱོད་བྱེད།   
 
-- **Automatically**  
-
-To set up automatic updates for Zom and your other apps:  
-
-1. Open the Google Play Store app  
-2. Select settings  
-3. Tap Auto-update apps  
-4. Select an option  
- -Auto update apps at any time to update apps using either Wi-Fi or mobile data  
- -Auto-update apps over Wi-Fi only to update apps only when connected to Wi-Fi  
+༢༽ལག་བཟོས་བསྐྱར་གསོ།
+བསྐྱར་གསོའི་ཐོན་གསར་ཤོས་འདི་ཁ་བྱང་(https://play.google.com/store/apps/details?id=im.zom)  སྟེང་འཚོལ་ཐུབ།
  
-
-- **Manually** 
-
-Find the latest version by visiting    
-  [https://play.google.com/store/apps/details?id=im.zom.messenger](https://play.google.com/store/apps/details?id=im.zom.messenger "Title") on your phone or going directly to the Zom store page for your Android phone. If a new version is available to you on your phone, you will see the option to update. Select update and open Zom
-
-### iOS  
-
-*What is the latest version of Zom iOS?*  
-Check the [App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669 "App Store") for the latest version number and a list of updates.    
-
-*How do I update Signal iOS?* 
-- **Automatically**  
-   To set up automatic updates for Zom and your other apps:  
-1. From your home screen tap Settings  
-2. Select [your name]  
-3. Select iTunes & App Store  
-4. Enable App Updates  
-- **Manually**  
-
-Find the latest version by visiting  
- [https://apps.apple.com/us/app/zom-mobile-messenger/id1059530167 ](https://apps.apple.com/us/app/zom-mobile-messenger/id1059530167  "Title") on your phone or going directly to the Zom page. If a new version is available to you on your phone, you will see the option to update. Select update and open Zom.
-
-
-
-## How do I register an account on Zom?
-
-To register an account you must have Zom installed in your phone. After installing Zom you will be taken to a welcome bubble  
-
-<p align="center">
-  
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome.jpg?raw=true" width="350">
-</p>
-
-
-Here you are given an option to select a language. After which you are greeted with an option to create an account  
-<p align = "center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register.jpg?raw=true" width="350">
-</p>
-
-After which you will have to create a Zom ID. Here you can enter a desired Zom ID of your liking, below which you are required to enter a password. You will have to enter your password twice in order to confirm your password. Make sure you make a strong password with a combination of numerics,uppercase and lowercase letters.  
-<p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register_sec.jpg?raw=true" width="350">
-</p>
  
+ཨཡི་ཨོ་ཨས། (IOS)   
+འཛོམས་ཨེབ་བསྐྱར་གསོའི་ཐོན་གསར་ཤོས་གང་ཡིན་ནམ།   
+བསྐྱར་གསོའི་ཐོན་གསར་ཤོས་ཀྱི་རེའུ་མིག་རྣམས་ཨེཔ་སཏྲ་རོར་ (AppStore) ནང་བལྟོས།   
+ཨཡི་ཨོ་ཨས། (IOS)ནང་དུས་བསྟུན་བསྐྱར་གསོ་ཇི་ལྟར་བྱེད་དགོས་སམ།   
+རང་འགུལ་བསྐྱར་གསོ།   
+༡༽ ཁ་པར་ནང་གི་སེ་ཊིང་ settings ཁ་ཕྱེ།   
+༢༽ རང་མིང་[your name] འདེམས་དགོས།   
+༣༽ ཨ་ཡི་ཊུན་(iTunes) དང་ཨེཔ་སཏྲ་རོར་ (AppStore) འདམ།   
+༤༽  ཨེབ་དུས་བསྟུན་བསྐྱར་གསོ་ཐུབ་པའི་ཆོག་མཆན་སྤྲོད།   
 
-Now, you’ve entered Zom, an option will appear to add a friend with an existing Zom ID or you can send an invite link to your friends via other messaging apps to join Zom  
-<p align="center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_friend.jpg?raw=true" width="350">
- </p>   
+ ལག་བཟོས་བསྐྱར་གསོ།   
 
-## How do I edit my Profile?  
-
-Zom keeps your information in the profile safe and encrypted. The Zom service does not have any information about your selected profile picture or your username. Here are the following ways you can edit your Profile:  
-
-
-1.Tap on the last tab in the app which is the Profile section.  
-
-<p align = "center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile.jpg?raw=true">
-</p>
-
-2.Tap on the avatar to upload a display picture from your device.  
-3.Tap on the pencil icon to edit your username   
-4.You can change your password by tapping on the pencil icon next to your password.  
-5.You can also see your current password by toggling the eye icon.  
+ བསྐྱར་གསོའི་ཐོན་གསར་ཤོས་འདི་ཁ་བྱང་(https://apps.apple.com/us/app/zom-mobile-messenger/id1059530167) སྟེང་འཚོལ་ཐུབ།   
 
 
-What do other people see?  
 
 
-if someone has saved you as a contact to their phone, they will see the profile name and photo you have set.  
+## འཛོམས་ཨེབ་ནང་དུ་ཡིག་ལན་ཇི་ལྟར་སྐུར་དགོས་མིན།
 
-## How do I send a message?  
+འཛོམས་ཨེབ་ནང་དུ་ཡིག་ལན་ཇི་ལྟར་སྐུར་དགོས་མིན།   
 
-Send a Message  
+འཛོམས་ཨེབ་ནང་དུ་བརྡ་འཕྲིན་ཁ་བྱང་བཟོ་ཚར་རྗེས་རང་གི་མཛའ་གྲོགས་ལྷན་དུ་ཡིག་ལན་བྱེད་ཐུབ།   
 
-After you have created a Zom ID you are set to start communicating privately with other Zom users.  
+ཡིག་ལན་བྱེད་པ་ལ་གཤམ་གསལ། ༔   
+ཨན་དྲརོཨཏྲ། (Android):   
 
-Here’s how you can send a message:   
+ ༡༽འཛོམས་ཨེབ་ཁ་ཕྱེ་ནས་སྐད་ཆ་བཤད་ཡུལ་གྱི་གྲོགས་པོའི་ཁ་བྱང་ཐོག་ཐེངས་གཅིག་གནོན།   
+ 
+  <p align="center">
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_icon.jpg?raw=true" style="height:60px;width:65px"/>
+  </p>   
 
-### Android  
-1. In Zom select a friend you want to message by tapping on the message button  
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/add_icon.jpg?raw=true" style="height:60px;width:65px"/>
-    </p>   
+༢༽ཐད་ཀར་རོགས་པའི་ཁ་བྱང་མ་རྙེད་ན་ཀོན་ཏྲེཀ་(contact)ཞེས་པ་དེའི་ནང་འཚོལ།   
+༣༽རོགས་པའི་ཁ་བྱང་ནང་སླེབས་ཚར་རྗེས་ཁ་པར་བརྙན་ཤེལ་གྱི་གཤམ་ལ་ཡོད་པའི་ཡི་གེ་བྲིས་སའི་གྲུ་སྒམ་དེ་གནོན།   
 
-2. Select a friend you want to message  
-3. Tap the text input field:  
-* You will see “Send a message” when you are communicating with another Zom user   
-    <p align="center">
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/input_view.jpg?raw=true"/>
-    </p>   
+  <p align="center">
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/input_view.jpg?raw=true"/>
+  </p>   
+༤༽དེ་ནས་རང་གི་སྐུར་འདོད་པའི་ཡིག་ལན་འབྲིས་ཡང་ན་ཡིག་ཆ་འདེམས་ནས་གྲུ་སྒམ་གྱི་ཟུར་ལ་ཡོད་པའི་འདྲ་སྒོར་ཟུར་གསུམ་དེ་གནོན།     
 
-4. Type your message or attach a file  
-5. To send a message, tap and hold or long-press the send icon to switch to the gray-icon.   
-    <p >
-    <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
-    </p>  
-      <p align="center">
-      <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
-      </p>  
+  <p >
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_icon.png?raw=true" style="height:60px;width:60px"/>
+  </p>  
+༥༽ཡིག་ལན་མ་ཡིན་པར་སྐད་ཆ་ཐད་ཀར་བཤད་འདོད་ཡོད་ན་བརྙན་ཤེལ་གཤམ་ལ་ཡོད་པའི་རྒྱང་དྲག་གི་འདྲ་སྒོར་དེ་གནོན་བཞིན་པའི་ཐོག་སྐད་ཆ་བཤད་རྗེས་གནོན་མཚམས་བཞག། སྐད་ལན་རང་བཞིན་གྱི་འགྲོ་ཡི་རེད།   
+
+  <p align="center">
+  <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/send_image.gif?raw=true" style=""/>
+  </p>  
+༦༽སྐད་ཆ་གང་བཤད་པ་དེ་བསྐུར་མི་འོས་ན་ལག་པ་གཡས་ཕྱོགས་ལ་འཐེན།   
+
 
 
 

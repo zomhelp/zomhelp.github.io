@@ -1,11 +1,11 @@
 ---
 layout: default
 #title: Navigation Structure
-title: Features
+title: ཁྱད་ཆོས།
 nav_order: 5
 ---
 
-# Features
+# ཁྱད་ཆོས།
 {: .no_toc }
 
   <summary>
