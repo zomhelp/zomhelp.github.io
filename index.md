@@ -93,7 +93,7 @@ o རང་གི་གསང་ཚིག་བརྗེ་འདོད་ཡོ
 o ད་ལྟའི་གསང་ཚིག་ལྟ་འདོད་ཡོད་ན་མིག་གི་འདྲ་སྒོར་ཆུང་ཆུང་དེ་བེད་སྤྱོད་བྱེད།   
 
 <p align = "center">
-<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile-tb.jpg?raw=true">
+<img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/profile-tb.jpg?raw=true" width="350">
 </p>
 
 
