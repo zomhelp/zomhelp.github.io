@@ -6,3 +6,28 @@
   {% assign color_scheme = "light" %}
 {% endif %}
 {% include css/just-the-docs.scss.liquid color_scheme=color_scheme %}
+
+.main-content ol {
+  list-style-type: none;
+  counter-reset: step-counter;
+  font-size: 22px;
+  font-size: 1;
+}
+
+.main-content ol > li::before {
+  margin-top: 8px;
+  position: absolute;
+  top: 0.2em;
+  left: -1.6em;
+  color: #959396;
+  content: counter(step-counter);
+  counter-increment: step-counter;
+  font-size: 12px !important;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  position: relative;
+  margin-top: 1.5em;
+  margin-bottom: 0.25em;
+  color: #7653ED;
+}
