@@ -65,9 +65,9 @@ permalink: /
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/welcome-tb.jpg?raw=true" width="350">
 </p>   
 <font size=5>  
-<font size=3>༢༽</font>དེའི་ནང་སྐད་ཡིག་འདམ་རྒྱུའི་གདམ་ག་ཞིག་ཡོད་པ་དང་སྐད་ཡིག་གདམས་རྗེས་འཛོམས་ཨེབ་གྱི་བརྡ་འཕྲིན་ཁ་བྱང་གསར་པ་གཟོ་རྒྱུའི་གདམས་ག་ཞིག་ཤར་གྱིན་རེད 
+<font size=3>༢༽</font>དེའི་ནང་སྐད་ཡིག་འདམ་རྒྱུའི་གདམ་ག་ཞིག་ཡོད་པ་དང་སྐད་ཡིག་གདམས་རྗེས་འཛོམས་ཨེབ་གྱི་བརྡ་འཕྲིན་ཁ་བྱང་གསར་པ་གཟོ་རྒྱུའི་གདམས་ག་ཞིག་ཤར་གྱིན་རེད།   
 </font>  
-།  
+  
 <p align = "center">
 <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/register-tb.jpg?raw=true" width="350">
 </p>
@@ -246,7 +246,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-<!--See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.--->
+<!--See [Customization]({{ site.baseurl }}{% link docs/troubleshooting.md %}) for more information.--->
 
 
 
